@@ -1,0 +1,22 @@
+{
+	"block.tnccoalworks.charcoal_chunk": "Charcoal Chunk",
+	"block.tnccoalworks.coal_chunk": "Coal Chunk",
+	"block.tnccoalworks.cobblestone_torch": "Cobblestone Torch",
+	"block.tnccoalworks.charcoal_block": "Charcoal Block",
+	"block.tnccoalworks.pol_charcoal_block":"Polished Charcoal Block",
+	"block.tnccoalworks.pol_dcomp_charcoal":"Polished Double Compressed Charcoal",
+	"block.tnccoalworks.pol_comp_charcoal":"Polished Compressed Charcoal",
+	"block.tnccoalworks.comp_charcoal_block": "Compressed Charcoal",
+	"block.tnccoalworks.dcomp_charcoal_block": "Double Compressed Charcoal",
+	"item.tnccoalworks.charcoal_chunk": "Charcoal Chunk",
+	"item.tnccoalworks.coal_chunk": "Coal Chunk",
+	"tooltip.coal_chunk": "Cooks 1 items",
+	"tooltip.charcoal_chunk": "Cooks 1 items",
+	"tooltip.charcoal_block": "Cooks 72 items",
+	"tooltip.comp_charcoal_block": "Cooks 648 items",
+	"tooltip.dcomp_charcoal_block": "Cooks 5,832 items",
+	"item.tnccoalworks.cobblestone_stick": "Cobblestone Stick",
+	"itemGroup.tnccoalworkstab": "TnC Coal Works",
+	"block.tnccoalworks.cobblestone_ladder": "Cobblestone Ladder",
+	"item.tnccoalworks.coaltipped_rung": "Coal Tipped Ladder Rung"	
+}

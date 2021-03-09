@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "  c",
+        " S ",
+        "c  "
+    ],
+    "key": {
+        "c": {
+            "item": "tnccoalworks:coal_chunk"
+        },
+        "S": {
+            "item": "tnccoalworks:cobblestone_stick"
+        }
+    },
+    "result": {
+        "item": "tnccoalworks:coaltipped_rung",
+        "count": 1
+    }
+}

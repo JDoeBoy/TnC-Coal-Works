@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "c"
+  ],
+  "key":
+  {
+    "c":
+    {
+      "item": "tnccoalworks:comp_charcoal_block"
+    }
+  },
+  "result":
+  {
+    "item": "tnccoalworks:charcoal_block",
+    "count": 9
+  }
+}

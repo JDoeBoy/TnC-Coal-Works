@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "ccc",
+    "c c",
+    "ccc"
+  ],
+  "key":
+  {
+    "c":
+    {
+      "item": "tnccoalworks:coal_chunk"
+    }
+  },
+  "result":
+  {
+    "item": "minecraft:coal",
+    "count": 1
+  }
+}

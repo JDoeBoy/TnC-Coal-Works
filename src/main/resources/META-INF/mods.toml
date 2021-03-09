@@ -1,0 +1,30 @@
+modLoader="javafml" #mandatory
+
+loaderVersion="[36,)"
+
+license="All rights reserved"
+
+[[mods]]
+
+modId="tnccoalworks"
+
+version="1.0.3"
+
+displayName="TnC Coal Works"
+
+logoFile="tnccoalworks.png"
+
+
+authors="PT_McB and YoungSnipe"
+
+description='''
+TnC Coal Works aims to simplify some aspects of Minecraft as it relates to Coal and Charcoal
+
+There is no world generation included or needed with this mod, it does provide a few blocks for you to build and smelt with.
+
+Currently there are chunk versions of both Coal and Charcoal
+Charcoal can be made into blocks in a 3X3 pattern, and that in turn can be crafted into Compressed Charcoal
+     Both Charcoal blocks will work as expected in a furnace.
+
+If you have comments and suggestions, we will be open for feedback soon.
+'''
