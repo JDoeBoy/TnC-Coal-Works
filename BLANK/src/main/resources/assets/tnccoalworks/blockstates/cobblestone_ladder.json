@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "tnccoalworks:block/cobblestone_ladder",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "tnccoalworks:block/cobblestone_ladder"
+    },
+    "facing=south": {
+      "model": "tnccoalworks:block/cobblestone_ladder",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "tnccoalworks:block/cobblestone_ladder",
+      "y": 270
+    }
+  }
+}

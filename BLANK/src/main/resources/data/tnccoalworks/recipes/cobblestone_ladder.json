@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "s s",
+    "scs",
+    "s s"
+  ],
+  "key":
+  {
+    "c":
+    {
+      "item": "tnccoalworks:coaltipped_rung"
+    },
+    "s":
+    {
+      "item": "tnccoalworks:cobblestone_stick"
+    }
+  },
+  "result":
+  {
+    "item": "tnccoalworks:cobblestone_ladder",
+    "count": 4
+  }
+}

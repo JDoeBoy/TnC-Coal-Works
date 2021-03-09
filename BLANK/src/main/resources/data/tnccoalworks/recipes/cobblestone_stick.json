@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "c",
+    "c"
+  ],
+  "key":
+  {
+    "c":
+    {
+      "item": "minecraft:cobblestone"
+    }
+  },
+  "result":
+  {
+    "item": "tnccoalworks:cobblestone_stick",
+    "count": 2
+  }
+}

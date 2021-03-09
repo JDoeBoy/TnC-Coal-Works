@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "c",
+    "s"
+  ],
+  "key":
+  {
+    "c":
+    {
+      "item": "minecraft:charcoal"
+    },
+    "s":
+    {
+      "item": "tnccoalworks:cobblestone_stick"
+    }
+  },
+  "result":
+  {
+    "item": "tnccoalworks:cobblestone_torch",
+    "count": 4
+  }
+}
